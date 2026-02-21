@@ -1,4 +1,4 @@
-# sistema-inventario
+# Sistema de Inventario
 Programa de consola desarrollado en Python que permite administrar un inventario de productos mediante un menú interactivo.
 
 El sistema permite registrar, modificar y eliminar productos, además de calcular el valor total del inventario y guardar la información automáticamente.
